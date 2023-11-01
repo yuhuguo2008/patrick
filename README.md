@@ -1,0 +1,2 @@
+# patrick
+new miner
